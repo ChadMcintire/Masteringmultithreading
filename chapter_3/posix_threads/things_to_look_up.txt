@@ -1,0 +1,5 @@
+rw_lock
+pthread_rwlock_init
+syncronyzation
+
+
